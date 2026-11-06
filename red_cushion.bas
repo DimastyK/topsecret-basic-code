@@ -1,4 +1,4 @@
-'Red Cushion by Akiyoshi Ktaoka
+'Red Cushion by Akiyoshi Kitaoka
 
 CLS
 Dim l(319)
